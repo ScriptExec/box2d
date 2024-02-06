@@ -33,4 +33,4 @@ project "box2d"
 
 	filter "configurations:Shipping"
 		runtime "Release"
-		optimize "on"
+		optimize "speed"
